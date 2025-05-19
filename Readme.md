@@ -140,12 +140,4 @@ project-root/
 
 ---
 
-## ✅ Future Improvements
-
-* Add room selection
-* User authentication
-* Calendar UI view
-* Admin dashboard
-
----
 
